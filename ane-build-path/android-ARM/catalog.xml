@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_aab872939c99f2c150dc0209cc3411002514c7a4e4ddd8df984e851277c0a765_flash_display_Sprite" mod="1398307399742" signatureChecksum="3415570797" >
+        <def id="_aab872939c99f2c150dc0209cc3411002514c7a4e4ddd8df984e851277c0a765_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/estore/ane/EstoreExtension" mod="1398307397876" signatureChecksum="551842231" >
+        <def id="com.estore.ane:EstoreExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="15fb2556c36ebd2b25a22eced6f8ebed054aae0ecc8b6d1f5ea32efd67d98b0b"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

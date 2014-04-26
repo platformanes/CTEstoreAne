@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AP密钥 -->
+    <string name="ctestore_apsecret">C27B297EF5F31703E040800AA4647A29</string>
+    <!-- AP客服电话，允许为空 -->
+    <string name="ctestore_apphonenum">xxxxxx</string>
+    <!-- 是否是测试模式，true测试模式，其他正式模式 -->
+    <string name="ctestore_testflag">false</string>
+    <!-- AP名称 -->
+    <string name="ctestore_apname">离线短信调试</string>
+    <!-- 应用名称 -->
+    <string name="ctestore_appname">测试应用</string>
+</resources>
